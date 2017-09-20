@@ -1,8 +1,15 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+/******************************************************
+***  Class Name: MyLinkList
+***  Class Author: Gabriel Winkler
+******************************************************
+*** Purpose of the class: This class creates the variables to be used in the 
+*** RecLinkList class.
+******************************************************
+*** Date: September 19th, 2017
+******************************************************
+*** List of changes with dates:
+*** September 19th: Write the MyLinkList class.
+*******************************************************/
 
 
 /**
